@@ -1,0 +1,10 @@
+.venv
+.env
+content/
+__pycache__/
+fashion_trend_intelligence.ipynb
+logs/
+
+
+
+

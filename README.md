@@ -1,5 +1,5 @@
 # Fashion Trend Intelligence Project
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WillIsback/fashion_trend_intelligene/blob/main/fashion_trend_intelligenence.ipynb)
 ## Overview
 The Fashion Trend Intelligence project is designed to perform image segmentation on fashion-related images using the Hugging Face API. The project is structured to facilitate easy maintenance and scalability by organizing the code into separate modules.
 
